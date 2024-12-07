@@ -7,6 +7,25 @@ description: >-
 
 # FAQ
 
+
+
+<details>
+
+<summary>What are the features in various Packages?</summary>
+
+
+
+</details>
+
+<details>
+
+<summary>Are there any add-ons/consumables/premium features?</summary>
+
+Below are the Work in Progress details of Addons and  Consumables.\
+[https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables](https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables)
+
+</details>
+
 <details>
 
 <summary>How is Security and Data Encryption Handled?</summary>
