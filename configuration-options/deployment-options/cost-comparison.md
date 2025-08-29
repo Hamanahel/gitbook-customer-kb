@@ -16,12 +16,10 @@ Assumptions
 
 
 
-<table><thead><tr><th width="332.3333333333333">Deployment</th><th width="206">Enterprise</th><th>On-prem</th></tr></thead><tbody><tr><td>Setup charges [HM]</td><td>Rs. 10,000</td><td>Rs. 25,000</td></tr><tr><td>Setup charges [External]</td><td>NIL</td><td>Rs. 2,44,000</td></tr><tr><td>Recurring monthly charges [HM]</td><td>NIL</td><td>NIL</td></tr><tr><td>Recurring monthly charges [External]</td><td>Rs. 12,000</td><td>NIL<a data-footnote-ref href="#user-content-fn-1">*</a></td></tr><tr><td>Recurring yearly charges [HM]</td><td>Rs. 5,000</td><td>Rs. 15,000</td></tr><tr><td>Recurring yearly charges [External]</td><td>NIL</td><td>Rs. 44,000<a data-footnote-ref href="#user-content-fn-2">*</a></td></tr><tr><td>Restarts</td><td>N.A.</td><td>Rs. 1,000<a data-footnote-ref href="#user-content-fn-3">*</a></td></tr></tbody></table>
+<table><thead><tr><th width="332.3333333333333">Deployment</th><th width="206">Enterprise</th><th>On-prem</th></tr></thead><tbody><tr><td>Setup charges [HM]</td><td>Rs. 10,000</td><td>Rs. 25,000</td></tr><tr><td>Setup charges [External]</td><td>NIL</td><td>Rs. 2,44,000</td></tr><tr><td>Recurring monthly charges [HM]</td><td>NIL</td><td>NIL</td></tr><tr><td>Recurring monthly charges [External]</td><td>Rs. 12,000</td><td>NIL<a data-footnote-ref href="#user-content-fn-1">*</a></td></tr><tr><td>Recurring yearly charges [HM]</td><td>Rs. 20,000</td><td>Rs. 30,000</td></tr><tr><td>Recurring yearly charges [External]</td><td>NIL</td><td>Rs. 44,000<a data-footnote-ref href="#user-content-fn-1">*</a></td></tr><tr><td>Restarts</td><td>N.A.</td><td>Rs. 1,000<a data-footnote-ref href="#user-content-fn-2">*</a></td></tr></tbody></table>
 
 
 
 [^1]: Estimated based on previous interactions with vendors. HM does not provide this service and can make no commitments toward this.
 
-[^2]: Estimated based on previous interactions with vendors. HM does not provide this service and can make no commitments toward this.
-
-[^3]: 6 restarts are complementary in a year. Overages are billed.
+[^2]: 6 restarts are complementary in a year. Overages are billed.

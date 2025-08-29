@@ -2,7 +2,7 @@
 
 These are services provided by vendors that are integral to the smooth operation of the the Hamanahel Platform. Hamanahel will open and maintain an account on behalf of it's clients with these vendors. Charges incurred will be paid by Hamanahel and settled at actuals from clients. The consumables section of platform will list all transactions made on behalf of the client. This service run on a prepaid running balance system.
 
-Note: These services are charged at actuals and Hamanahel does not markup transactions. Any Policy/Pricing changes from Vendors will affect  customer pricing and delivered features. Invoices can be made available.
+**Note: These services are charged at actuals and Hamanahel does not markup transactions. Any Policy/Pricing changes from Vendors will affect  customer pricing and delivered features. Invoices can be made available.**
 
 (D) means recommended default service by Hamanahel.\
 
