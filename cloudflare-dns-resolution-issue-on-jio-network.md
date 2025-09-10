@@ -59,4 +59,4 @@ IPV6 DNS resolver wont resolve.
 `curl -6 -v "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
 
 IPV4 DNS resolver will resolve.\
-`curl -4 -v"https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
+`curl -4 -v "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
