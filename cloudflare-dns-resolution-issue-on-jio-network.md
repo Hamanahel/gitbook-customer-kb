@@ -4,6 +4,8 @@ description: We are not able to resolve IP address on Coudflare proxied mode on 
 
 # Cloudflare DNS Resolution Issue on Jio Network
 
+
+
 **Jio Mobile Data; REFUSED Err; No IP resolved**
 
 Jio Mobile Data DSN Server: fe80::b08c:75ff:fe94:2464%14#53(fe80::b08c:75ff:fe94:2464%14)
@@ -43,3 +45,18 @@ Doesn't block a64f0cfbd3b3be47bcbddf2bc442ffde.r2.cloudflarestorage.com
 **Other network; No issues**
 
 <figure><img src=".gitbook/assets/Other network.jpg" alt=""><figcaption></figcaption></figure>
+
+
+
+
+
+**How to reproduce in Android Phone with JIO Data:**\
+Install App like Termux:\
+[https://play.google.com/store/apps/details?id=com.termux\&hl=en\_IN](https://play.google.com/store/apps/details?id=com.termux\&hl=en_IN)\
+\
+IPV6 DNS resolver wont resolve.
+
+`curl -6 -v -H "User-Agent: axios/0.27.2" -H "Accept: application/json" "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
+
+IPV4 DNS resolver will resolve.\
+`curl -6 -v -H "User-Agent: axios/0.27.2" -H "Accept: application/json" "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
