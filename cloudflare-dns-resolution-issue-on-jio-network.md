@@ -56,7 +56,7 @@ Install App like Termux:\
 \
 IPV6 DNS resolver wont resolve.
 
-`curl -6 -v -H "User-Agent: axios/0.27.2" -H "Accept: application/json" "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
+`curl -6 -v "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
 
 IPV4 DNS resolver will resolve.\
-`curl -6 -v -H "User-Agent: axios/0.27.2" -H "Accept: application/json" "https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
+`curl -4 -v"https://tenant00140-apac-leeb-36efab44-pub-sb.hamanahel.app/config/index.json"`
