@@ -4,6 +4,7 @@
 
 * [Vendor accounts & Consumables](README.md)
 * [Packages and Features](configuration-options/packages-and-features.md)
+* [Mobile App Plans](configuration-options/mobile-app-plans.md)
 * [Deployment options](<README (1).md>)
   * [Standard deployments](configuration-options/deployment-options/standard-deployments.md)
   * [Enterprise deployments](configuration-options/deployment-options/enterprise-deployments.md)
