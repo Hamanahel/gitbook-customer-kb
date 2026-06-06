@@ -42,11 +42,11 @@
 2. Markdown text with formatting and Common images support.
 3. Album & Photo categories options with any ordering and hierarchy.
 4. Customize home page display on content with re-ordering.
-5. Add,edit and Customize Quicklinks, re-order, decide icons.
+5. Add,edit and customizable Quicklinks, re-order, decide icons.
 6. Add any number of pages, like history, time-table.
 7. Customizable search options in Parish Directory with all types of member attributes\*.
-8. Flexible list of Editable fields for member & family,visibility preferences, lock, hide, disabled fields, custom validation rules using model columns.
-9. PDF Account statement with payments and dues from Mobile for every member self-serve.
+8. Flexible list of Editable fields for member & family, visibility preferences, lock, hide, disabled fields, custom validation rules using model columns.
+9. PDF Account statement with payments and dues from Mobile for every member (no paper, self-serve).
 10. Customizable fields and ordering logic option for Family and Member profile display in the App..
 11. Flexible RBAC control with Admin roles and Permission management.
 12. Configurable number of hours to show birthdays, anniversaries, new joiners in What’s New.
