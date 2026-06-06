@@ -1,11 +1,56 @@
-# Vendor accounts & Consumables
+# Mobile App Plans
 
-These are services provided by vendors that are integral to the smooth operation of the the Hamanahel Platform. Hamanahel will open and maintain an account on behalf of it's clients with these vendors. Charges incurred will be paid by Hamanahel and settled at actuals from clients. The consumables section of platform will list all transactions made on behalf of the client. This service run on a prepaid running balance system.
+### Classic App Features
 
-**Note: These services are charged at actuals and Hamanahel does not markup transactions. Any Policy/Pricing changes from Vendors will affect  customer pricing and delivered features. Invoices can be made available.**
+1. 2 MB limit for files and images with total 2 GB limit.
+2. Fixed Categories for Vicar Message and Events.
+3. Plain Text Only for updates,events.
+4. Single image, Single attachment.
+5. Push notification on create.
+6. Publications with 1 file and 1 level.
+7. Simple Parish Directory.
+8. Simple Organization management.
+9. 2 MB limit for files and images.
+10. HOF can edit a minimal list of fields Family and Members.
 
-(D) means recommended default service by Hamanahel.\
+#### Basic New App Features:
 
+1. Any size of files with 10GB free limit from Cloudflare and allow expansion.
+2. Markdown text with formatting for updates,events.
+3. Contact field with member links for updates,events.
+4. Multiple images, Multiple attachments.
+5. Push notifications any number of times and at any time, with scheduling options.
+6. Publications with N level nesting, grouping, markdown description and details.
+7. Add contact options in the Contact Screen.
+8. Parish directory with Name, Name of HOF, Family Name, Fam Id search.
+9. Dynamic and groupable Organization management with N level nesting,re-ordering, organizing and exporting.
+10. Installation report for Family.
+11. 2FA Factor Support for Email, Inbound WhatsApp, OTP, etc.
+12. Fixed list of Editable fields for member & family.
+13. Prayer group wise display of Birthday & Anniversary with quick links.
+14. One Shot view for all events, New Member joining etc in the What's New section.
+15. New Map display for family address.&#x20;
+16. Enhanced options for showing dues and payment history.
+17. Enhanced tool for diagnosing issues in the mobile app.
+18. Enhanced Audit logs for admins.
+19. Single data update for both Website & Mobile App news, events, gallery, publications.
+20. Enhanced performance and compliance for Google and iOS guidelines.
 
-<table><thead><tr><th width="199">Used for</th><th>Service</th><th>Vendor</th><th width="97">Pricing</th><th>Remarks</th></tr></thead><tbody><tr><td>File storage(D)</td><td>R2</td><td>Cloudflare</td><td><a href="https://developers.cloudflare.com/r2/pricing/">Link</a></td><td>10GB Free </td></tr><tr><td>File storage</td><td>S3</td><td>Amazon Web Services</td><td><a href="https://aws.amazon.com/s3/pricing/">Link</a></td><td>5GB Free</td></tr><tr><td>File storage</td><td>B2</td><td>Backblaze</td><td><a href="https://www.backblaze.com/cloud-storage/pricing">Link</a></td><td></td></tr><tr><td>Domain(D)</td><td>Registrar</td><td>Cloudflare</td><td><a href="https://www.cloudflare.com/products/registrar/">Link</a></td><td></td></tr><tr><td>Domain</td><td>Registrar</td><td>Name.com</td><td><a href="https://www.name.com/pricing">Link</a></td><td></td></tr><tr><td>Website Hosting</td><td>Pages</td><td>Cloudflare</td><td><a href="https://www.cloudflare.com/plans/developer-platform/">Link</a></td><td></td></tr><tr><td>Website Hosting</td><td>Hosting</td><td>Vercel</td><td><a href="https://vercel.com/pricing">Link</a></td><td></td></tr><tr><td>Push notification</td><td>Firebase</td><td>Google Cloud Platform</td><td>Free</td><td>For Custom Apps</td></tr><tr><td>OTA Updates</td><td>EAS</td><td>Expo</td><td><a href="https://expo.dev/pricing">Link</a></td><td>For Custom Apps</td></tr><tr><td>2FA | Long code</td><td>Long Code</td><td>Textlocal</td><td><a href="https://www.textlocal.in/bulk-sms-pricing-india/">Link</a></td><td>Cost Sharing is possible</td></tr><tr><td>WA Messaging</td><td>WA Business API</td><td>Meta Platforms</td><td><a href="https://business.whatsapp.com/products/platform-pricing">Link</a></td><td></td></tr><tr><td>DNS &#x26; CDN</td><td>DNS &#x26; CDN</td><td>Cloudflare</td><td>Free</td><td>Paid plans not needed</td></tr><tr><td>SMS Messaging</td><td>Messaging</td><td>Twilio</td><td><a href="https://www.twilio.com/en-us/sms/pricing">Link</a></td><td></td></tr><tr><td>SMS Messaging</td><td>SMS</td><td>MSG91</td><td><a href="https://msg91.com/pricing/sms">Link</a></td><td></td></tr></tbody></table>
+#### Standard New App Features (Basic features already included):
 
+1. Dynamic and flexible categories for updates,events.
+2. Markdown text with formatting and Common images support.
+3. Album & Photo categories options with any ordering and hierarchy.
+4. Customize home page display on content with re-ordering.
+5. Add,edit and Customize Quicklinks, re-order, decide icons.
+6. Add any number of pages, like history, time-table.
+7. Customizable search options in Parish Directory with all types of member attributes\*.
+8. Flexible list of Editable fields for member & family,visibility preferences, lock, hide, disabled fields, custom validation rules using model columns.
+9. PDF Account statement with payments and dues from Mobile for every member self-serve.
+10. Customizable fields and ordering logic option for Family and Member profile display in the App..
+11. Flexible RBAC control with Admin roles and Permission management.
+12. Configurable number of hours to show birthdays, anniversaries, new joiners in What’s New.
+13. Automated Birthday and Anniversary wishes through email and push notifications.
+14. Asset Management/Property booking management options for the Church.
+15. Admins can see additional personal, payments and dues information of his assigned prayer group members from the App itself.
+16. Whitelabel and custom domains support.
