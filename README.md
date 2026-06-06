@@ -47,16 +47,21 @@
 7. Customizable search options in Parish Directory with all types of member attributes\*.
 8. Flexible list of Editable fields for member & family, visibility preferences, lock, hide, disabled fields, custom validation rules using model columns.
 9. PDF Account statement with payments and dues from Mobile for every member (no paper, self-serve).
-10. Customizable fields and ordering logic option for Family and Member profile display in the App..
-11. Flexible RBAC control with Admin roles and Permission management.
-12. Configurable number of hours to show birthdays, anniversaries, new joiners in What’s New.
-13. Automated Birthday and Anniversary wishes through email and push notifications.
-14. Asset Management/Property booking management options for the Church.
-15. Admins can see additional personal, payments and dues information of his assigned prayer group members from the App itself.
+10. Flexible RBAC control with Admin roles and Permission management.
+11. Configurable number of hours to show birthdays, anniversaries, new joiners in What’s New.
+12. Automated Birthday and Anniversary wishes through email and push notifications\*.
+13. Asset Management/Property booking management options for the Church.
+14. Admins can see additional personal, payments and dues information of his assigned prayer group members from the App itself.
+15. Option to show inactive families/members in app.
 16. Whitelabel and custom domains support.
 
 
 
-Upcoming new feautures:\
-Prayer request.\
-Form Submissions.
+Upcoming new feautures:
+
+* Customizable fields and ordering logic option for Family and Member profile display in the App.
+* Prayer request. Form Submissions.
+
+
+
+\*Unit based billing applicable.
