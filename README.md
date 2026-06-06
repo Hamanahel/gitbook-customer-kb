@@ -55,13 +55,17 @@
 15. Option to show inactive families/members in app.
 16. Whitelabel and custom domains support.
 
+#### Addons
 
+2 Factor Authentication & Email / Mobile App push notification for Birthday and Wedding Anniversary. INR 2000 worth of credits. Example for India: Rs 1.0/WhatsApp message , Rs 0.1 /Push Notification, Rs 0.1 /Email.
 
-Upcoming new feautures:
+#### Upcoming new features:
 
 * Customizable fields and ordering logic option for Family and Member profile display in the App.
 * Prayer request. Form Submissions.
 
 
 
-\*Unit based billing applicable.
+\*Unit based billing applicable.\
+\
+<br>
