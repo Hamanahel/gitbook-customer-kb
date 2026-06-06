@@ -15,7 +15,7 @@
 
 #### Basic New App Features:
 
-1. Any size of files with 10GB free limit from Cloudflare and allow expansion.
+1. Any size of files with 10GB free limit from Cloudflare and allow expansion\*.
 2. Markdown text with formatting for updates,events.
 3. Contact field with member links for updates,events.
 4. Multiple images, Multiple attachments.
