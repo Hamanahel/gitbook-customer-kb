@@ -33,7 +33,7 @@
 16. Enhanced options for showing dues and payment history.
 17. Enhanced tool for diagnosing issues in the mobile app.
 18. Enhanced Audit logs for admins.
-19. Single data update for both Website & Mobile App news, events, gallery, publications.
+19. Update data for both Website & Mobile App for news, events, gallery, publications in place.
 20. Enhanced performance and compliance for Google and iOS guidelines.
 
 #### Standard New App Features (Basic features already included):
