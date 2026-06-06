@@ -54,3 +54,9 @@
 14. Asset Management/Property booking management options for the Church.
 15. Admins can see additional personal, payments and dues information of his assigned prayer group members from the App itself.
 16. Whitelabel and custom domains support.
+
+
+
+Upcoming new feautures:\
+Prayer request.\
+Form Submissions.
