@@ -9,22 +9,7 @@ description: >-
 
 
 
-<details>
 
-<summary>What are the features in various Packages?</summary>
-
-
-
-</details>
-
-<details>
-
-<summary>Are there any add-ons/consumables/premium features?</summary>
-
-Below are the Work in Progress details of Addons and  Consumables.\
-[https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables](https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables)
-
-</details>
 
 <details>
 
@@ -36,7 +21,7 @@ Comprehensive Protection: We employ encryption both in transit and at rest to sa
 \
 Reliable Platforms: Our databases are deployed on industry-leading cloud platforms, Azure and AWS, which offer robust security measures.\
 \
-Access to the Database: Strict Access Controls: Only authorized management personnel have direct access to the database, which is located within a secure virtual private cloud (VPC). Development Processes: Our development team works on separate staging resources, and any changes are thoroughly reviewed by management before being implemented in production.&#x20;
+Access to the Database: Strict Access Controls: Only authorized management personnel have direct access to the database. Development Processes: Our development team works on separate staging resources, and any changes are thoroughly reviewed by management before being implemented in production.&#x20;
 
 Limited Data Sharing: In rare cases where production data is essential for troubleshooting, we provide redacted database dumps to the development team, typically sharing only 10% of the data.&#x20;
 
@@ -56,6 +41,15 @@ We have never sold the customer data and we will never do it.
 
 Retention policy is 30 Days for Daily backups.\
 Retention policy is 6 months for weekly backups.
+
+</details>
+
+<details>
+
+<summary>Are there any add-ons/consumables/premium features?</summary>
+
+Below are the Work in Progress details of Addons and  Consumables.\
+[https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables](https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables)
 
 </details>
 
@@ -81,7 +75,7 @@ Offline to Online migration: Maximum 2 days of Onboarding Time.
 
 <summary>Do you provide white-labelling?</summary>
 
-White-labelling feature is being developed. Please get in touch for latest updates.
+White-labelling feature is being live. Please get in touch for latest updates.
 
 </details>
 
@@ -105,6 +99,6 @@ Cloud: AWS, Azure, Cloudflare
 
 <summary>Do you have VAPT or Pen Test Results?</summary>
 
-We are currently engaged with a Security Audit Firm. As, per their suggestion, we are waiting for completing the migration from Azure to AWS to continue with assessment.
+We are currently engaged with a Security Audit Firm. As, per their suggestion, we are waiting for completing the migration from AWS to Cloudflare to continue with assessment.
 
 </details>
