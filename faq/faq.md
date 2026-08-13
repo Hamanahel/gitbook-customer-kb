@@ -46,6 +46,42 @@ Retention policy is 6 months for weekly backups.
 
 <details>
 
+<summary>Timeline for fixes of noticed software bugs/flaws in the Mobile App &#x26; Website</summary>
+
+1\. Critical Severity
+
+Description: Bugs that cause complete application failure, data loss, or severe
+
+security vulnerabilities, requiring immediate attention and resolution impacting all
+
+users.
+
+Expected Resolution Timeline: Within 24 hours.
+
+2\. Moderate Severity
+
+Description: Bugs that cause noticeable problems or degradation in functionality but
+
+do not halt the entire application. These require prompt resolution but are not as
+
+urgent as critical bugs.
+
+Expected Resolution Timeline: Within 3-5 business days.
+
+3\. Low Severity
+
+Description: Minor bugs that cause minimal impact on functionality or user
+
+experience. These issues are less urgent and can be scheduled for future updates
+
+or patches.
+
+Expected Resolution Timeline: Within the next scheduled release cycle.
+
+</details>
+
+<details>
+
 <summary>Are there any add-ons/consumables/premium features?</summary>
 
 Below are the Work in Progress details of Addons and  Consumables.\
@@ -75,7 +111,7 @@ Offline to Online migration: Maximum 2 days of Onboarding Time.
 
 <summary>Do you provide white-labelling?</summary>
 
-White-labelling feature is being live. Please get in touch for latest updates.
+White-labelling feature is available. Please get in touch for latest updates and eligibilty requirements.
 
 </details>
 
