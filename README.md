@@ -13,7 +13,7 @@
 9. 2 MB limit for files and images.
 10. HOF can edit a minimal list of fields Family and Members.
 
-#### Basic New App Features:
+#### Standard New App Features:
 
 1. Any size of files with 10GB free limit from Cloudflare and allow expansion\*.
 2. Markdown text with formatting for updates,events.
@@ -36,7 +36,7 @@
 19. Update data for both Website & Mobile App for news, events, gallery, publications in place.
 20. Enhanced performance and compliance for Google and iOS guidelines.
 
-#### Standard New App Features (Basic features already included):
+#### Premium New App Features (Standard features already included):
 
 1. Dynamic and flexible categories for updates,events.
 2. Markdown text with formatting and Common images support.

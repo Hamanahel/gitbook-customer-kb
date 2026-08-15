@@ -37,10 +37,29 @@ We have never sold the customer data and we will never do it.
 
 <details>
 
+<summary>Time required for setting up a New Customer after Approvals and Payment?</summary>
+
+Accounts Module(New): Same day activation and Setup.\
+Accounts Module (Offline to Online migration): Around 2 days of Onboarding Time.\
+Mobile App(Standard): 2 days activation and Setup.\
+Website Feature: 2 weeks of design, development.
+
+</details>
+
+<details>
+
 <summary>Data backups Policy</summary>
 
 Retention policy is 30 Days for Daily backups.\
 Retention policy is 6 months for weekly backups.
+
+</details>
+
+<details>
+
+<summary>Timeline for fixes of noticed software bugs/flaws in the Mobile App &#x26; Website</summary>
+
+
 
 </details>
 
@@ -82,15 +101,6 @@ Expected Resolution Timeline: Within the next scheduled release cycle.
 
 <details>
 
-<summary>Are there any add-ons/consumables/premium features?</summary>
-
-Below are the Work in Progress details of Addons and  Consumables.\
-[https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables](https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables)
-
-</details>
-
-<details>
-
 <summary>How can we get Data if service is Discontinued?</summary>
 
 Our Reports already allow you to export all the relevant details. However, if you require very specific report, the client will have to bear the cost of the development for the export format.
@@ -99,11 +109,10 @@ Our Reports already allow you to export all the relevant details. However, if yo
 
 <details>
 
-<summary>Time required for setting up a New Customer in Website and Mobile</summary>
+<summary>Are there any add-ons/consumables/premium features?</summary>
 
-New customer:  Same day activation and Setup
-
-Offline to Online migration: Maximum 2 days of Onboarding Time.
+Below are the Work in Progress details of Addons and  Consumables.\
+[https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables](https://docs.hamanahel.in/customer-knowledge-base/configuration-options/vendor-accounts-and-consumables)
 
 </details>
 
